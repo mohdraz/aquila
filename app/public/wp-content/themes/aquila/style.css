@@ -1,0 +1,28 @@
+/*
+Theme Name: Aquila
+Text Domain: aquila
+Theme URI: https://noorinfotech.com/
+Author: Mohammad Raza
+Author URI: https://noorinfotech.com/
+Description: Wordpress bloggin Theme
+Tags: blog, theme
+Version: 1.0
+Required at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+body {
+  background: darkblue;
+  color: white;
+  margin: auto;
+}
